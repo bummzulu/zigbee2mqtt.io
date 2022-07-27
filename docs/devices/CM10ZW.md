@@ -23,7 +23,8 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
-
+## Notes
+The device supports reading the status of dry contacts 
 
 <!-- Notes END: Do not edit below this line -->
 
